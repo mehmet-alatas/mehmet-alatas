@@ -71,6 +71,18 @@ My expertise lies in creating efficient and scalable test frameworks using vario
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 
+## 📈 GitHub Analytics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientStart=FFD700&gradientEnd=FF4500&height=100&section=footer"/>
+</p>
+
 
 ### 📬 Let's Connect!
 
