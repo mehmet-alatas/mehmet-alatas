@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mehmet Alatas!
+# 👋 Hi, I'm Mehmet Alatas! <img align="right" alt="AI Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mehmet-alatas&label=Profile%20views&color=0e75b6&style=flat" alt="mehmet-alatas" />
