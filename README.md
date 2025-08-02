@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mehmet Alatas!
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=resatkvc&label=Profile%20views&color=0e75b6&style=flat" alt="resatkvc" />
+  <img src="https://komarev.com/ghpvc/?username=mehmet-alatas&label=Profile%20views&color=0e75b6&style=flat" alt="mehmet-alatas" />
 </p>
 
 ### 🚀 About Me
