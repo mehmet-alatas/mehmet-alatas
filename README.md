@@ -6,8 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Test Automation Engineer** in automating web, API, and mobile tests using the latest tools and technologies.  
-My expertise lies in creating efficient and scalable test frameworks using various programming languages and methodologies.
+I am a dedicated Test Automation Engineer with a strong passion for automating web, API, DB, and mobile tests. With expertise in leveraging the latest tools and technologies, I focus on creating efficient, scalable test frameworks using a variety of programming languages and industry best practices. **Additionally, I am continuously researching and working on integrating artificial intelligence into testing processes to improve efficiency and accuracy.**
 
 - ✍️ I have been within Techpro Education since August 2022. I am very happy to witness their development by providing the following training for future developers and testers.
   * ✅Java
